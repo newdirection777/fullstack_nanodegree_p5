@@ -16,7 +16,6 @@ Summary of installed software:
 -psycopg2
 -PostgreSQL
 
-
 Summary of configuration changes made:
 -created new user grader with sudo privileges.
 -did a software update.
@@ -46,13 +45,13 @@ Third party resources used to complete this project:
 
 
 To use this app:
-1. Point your browser to the URL shown above. This will bring up the home page.
+-Point your browser to the URL shown above. This will bring up the home page.
 
-2. Click the 'login' link in the upper right corner, and log in using your
+-Click the 'login' link in the upper right corner, and log in using your
 Google or Facebook account.  For best results, use Chrome.  Facebook
 login may not work on Firefox because of the default security settings
 on Firefox.
 
 If you MUST use Firefox, set 'Allow Tracking' to True in your settings.
 
-3. Once you are logged in, you can add, edit, delete fighters.  Enjoy!
+-Once you are logged in, you can add, edit, delete fighters.  Enjoy!
