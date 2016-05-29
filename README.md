@@ -1,20 +1,20 @@
 This web app provides a simple database for the sport of boxing.  
 It allows you to add, edit, and delete your favorite fighters.
 
-IP Address: 52.27.111.124
+IP Address: 52.27.111.124  
 URL: ec2-52-27-111-124.us-west-2.compute.amazonaws.com
 
-Summary of installed software: 
--Apache web server and mod_wsgi module
--Git
--Flask
--python-pip
--virtualenv
--httplib2
--oauth2client
--sqlalchemy
--psycopg2
--PostgreSQL
+Summary of installed software:   
+-Apache web server and mod_wsgi module  
+-Git  
+-Flask  
+-python-pip  
+-virtualenv  
+-httplib2  
+-oauth2client  
+-sqlalchemy  
+-psycopg2  
+-PostgreSQL  
 
 
 Summary of configuration changes made:
